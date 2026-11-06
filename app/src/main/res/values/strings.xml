@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ReelGuard</string>
+    <string name="accessibility_service_label">ReelGuard Reel Detector</string>
+    <string name="accessibility_service_description">Detects Instagram Reels scrolling to update your real-time Brain Rot counter and trigger reality-check floating banners.</string>
+    <string name="overlay_notification_channel_name">ReelGuard Active Banner</string>
+    <string name="overlay_notification_title">ReelGuard Shield Active</string>
+    <string name="overlay_notification_text">Monitoring Instagram Reels &amp; displaying live Brain Rot counter.</string>
+    <string name="nav_dashboard">Shield</string>
+    <string name="nav_simulator">Test Lab</string>
+    <string name="nav_quotes">Messages</string>
+    <string name="nav_settings">Thresholds</string>
+    <string name="exit_now">EXIT NOW</string>
+    <string name="brain_rot_stage_1">Mindful Browsing</string>
+    <string name="brain_rot_stage_2">Dopamine Spike</string>
+    <string name="brain_rot_stage_3">Brain Fog Emerging</string>
+    <string name="brain_rot_stage_4">Severe Brain Rot</string>
+    <string name="brain_rot_stage_5">Cognitive Meltdown</string>
+</resources>

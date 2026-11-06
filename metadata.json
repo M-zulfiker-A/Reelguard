@@ -1,0 +1,6 @@
+{
+  "name": "ReelGuard",
+  "description": "Instagram usage & Reels scroll interceptor with a persistent floating brain rot counter banner and customizable wake-up quotes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
